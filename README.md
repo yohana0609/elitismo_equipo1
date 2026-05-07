@@ -4,7 +4,7 @@
 - Ibarra Facio Pedro Antonio
 - Yohana Ornelas Ochoa
 - Alejandro
-- Isaac
+- Isaac Antonio Rojas Gutierrez
 - Miguel
 
 ## Descripción

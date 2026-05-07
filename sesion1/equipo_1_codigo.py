@@ -12,22 +12,23 @@ Archivos generados:
 from __future__ import annotations
 
 import time
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 import matplotlib
-
+# Configura el backend de Matplotlib para generar archivos sin abrir ventanas
 matplotlib.use("Agg")
 
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-
-# Parametros FIJOS solicitados por el enunciado.
+# ==========================================
+# PARÁMETROS FIJOS (Configuración del AG)
+# ==========================================
 POBLACION = 50
 GENERACIONES = 100
-LONGITUD_CROMOSOMA = 10
+LONGITUD_CROMOSOMA = 10  # Número de variables/genes por individuo
 PROB_CRUZAMIENTO = 0.8
 PROB_MUTACION = 0.01
 TIPO_SELECCION = "torneo"
@@ -36,12 +37,15 @@ TIPO_MUTACION = "uniforme"
 TAMANO_TORNEO = 3
 SEMILLA = 42
 
+# Límites del espacio de búsqueda (Rango de los genes)
 LIMITE_INFERIOR = -5.12
 LIMITE_SUPERIOR = 5.12
 
+# Opciones para experimentación
 TRANSFORMACIONES = ("Inversion", "Negacion", "Ranking")
 NIVELES_ELITISMO = (0, 2, 5)
 
+# Gestión de rutas de archivos
 BASE_DIR = Path(__file__).resolve().parent
 CSV_SALIDA = BASE_DIR / "equipo_1_resultados.csv"
 GRAFICA_SALIDA = BASE_DIR / "equipo_1_grafica.png"
