@@ -23,7 +23,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-# ==========================================
+# ============
 # PARÁMETROS FIJOS (Configuración del AG)
 # ==========================================
 POBLACION = 50
