@@ -66,6 +66,5 @@ La gráfica `equipo_1_grafica.png` muestra la convergencia de las 9 configuracio
 - En este problema multimodal, niveles bajos de elitismo facilitan la exploración.
 - Mayor `k` reduce sistemáticamente la diversidad poblacional.
 - El ranking lineal mantiene una distribución de fitness constante (invariante a la población), por lo que su diversidad de fitness no decae con el elitismo.
-- En la gráfica las configuraciones de ranking pueden superponerse porque el mejor fitness por ranking es 1.5 por construcción.
 
 Detalles completos en `docs/decisiones.md`.

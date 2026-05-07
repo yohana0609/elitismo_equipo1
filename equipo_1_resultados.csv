@@ -1,0 +1,10 @@
+Transformacion,Elitismo,Mejor_Fitness,Generaciones,Tiempo_seg,Diversidad_Final
+Inversion,0,0.1532,100,0.182,0.0375
+Inversion,2,0.133,100,0.183,0.0251
+Inversion,5,0.122,100,0.182,0.0099
+Negacion,0,34.3127,100,0.184,7.1995
+Negacion,2,26.9375,100,0.187,4.9369
+Negacion,5,13.0345,100,0.188,1.5673
+Ranking,0,1.5,100,0.186,0.2945
+Ranking,2,1.5,100,0.185,0.2945
+Ranking,5,1.5,100,0.186,0.2945
