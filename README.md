@@ -29,6 +29,7 @@ olimpiada-ag-2026-equipo-1/
 ```
 
 ## Requisitos
+Para instalar las dependencias necesarias:
 ```bash
 pip install -r sesion1/requirements.txt
 ```
