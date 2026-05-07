@@ -1,8 +1,8 @@
 # Olimpiada AG 2026 - Equipo 1
 
 ## Integrantes
-- Ibarra Facio Pedro Antonio (líder)
-- Yohana
+- Ibarra Facio Pedro Antonio
+- Yohana Ornelas Ochoa
 - Alejandro
 - Isaac
 - Miguel
