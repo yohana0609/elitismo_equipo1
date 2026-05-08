@@ -1,9 +1,9 @@
 # Olimpiada AG 2026 - Equipo 1
 
 ## Integrantes
-- Ibarra Facio Pedro Antonio
+- Pedro Antonio Ibarra Facio
 - Yohana Ornelas Ochoa
-- Alejandro Andrade Romero
+- Aquiba l nombre del alex el leon
 - Isaac Antonio Rojas Gutierrez
 - Miguel Angel Gomez Candelario
 - Oliver Lael Galvez Martinez
