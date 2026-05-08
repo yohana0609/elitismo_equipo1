@@ -3,7 +3,7 @@
 ## Integrantes
 - Pedro Antonio Ibarra Facio
 - Yohana Ornelas Ochoa
-- Aquiba l nombre del alex el leon
+- Jesús Alejandro Andrade Romero
 - Isaac Antonio Rojas Gutierrez
 - Miguel Angel Gomez Candelario
 - Oliver Lael Galvez Martinez
