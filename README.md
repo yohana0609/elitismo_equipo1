@@ -7,7 +7,7 @@
 - Isaac Antonio Rojas Gutierrez
 - Miguel Angel Gomez Candelario
 - Oliver Lael Galvez Martinez
-- Jean Carlos
+- Jean Carlo Deimbacher Galvan 
 
 ## Descripción
 Implementación de un algoritmo genético para minimizar la función **Rastrigin en 10 dimensiones**, comparando 3 transformaciones de fitness × 3 niveles de elitismo (matriz 3×3 de 9 configuraciones), correspondiente a la Sesión 1 de la Olimpiada AG 2026.
